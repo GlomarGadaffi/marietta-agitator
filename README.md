@@ -1,4 +1,4 @@
-# marietta-agitator
+# ble-sign-beacon
 
 Bluetooth low-energy sit-in beacon. broadcast a short sign-message as a BLE advertisement on any ESP32 (~$5-8). intended to make presence VISIBLE in the RF spectrum — not hidden, not interfering, just countable. "you're choosing to be seen, that's the whole idea of a sit-in."
 
